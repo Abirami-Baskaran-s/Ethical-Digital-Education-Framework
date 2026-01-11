@@ -1,6 +1,6 @@
 📌 Project Overview
 
-Developed a comprehensive Strategic Information Systems Plan (SISP) for Yoobee College, a tertiary education provider in New Zealand. This project involved auditing a fragmented IS environment—characterized by manual processes and legacy systems—and designing a future-state architecture centered on digital transformation, data-driven decision-making, and cultural equity.
+Developed a comprehensive Strategic Information Systems Plan (SISP) for Yoobee College, a tertiary education provider in New Zealand. This project involved auditing a fragmented IS environment ,characterized by manual processes and legacy systems—and designing a future-state architecture centered on digital transformation, data-driven decision-making, and cultural equity.
 
 🛠️ Problem Space & Analysis
 
