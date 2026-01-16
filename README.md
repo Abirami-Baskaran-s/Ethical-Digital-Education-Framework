@@ -1,33 +1,68 @@
-📌 Project Overview
+# Ethical, Culturally-Responsive Digital Education Framework
 
-Developed a comprehensive Strategic Information Systems Plan (SISP) for Yoobee College, a tertiary education provider in New Zealand. This project involved auditing a fragmented IS environment ,characterized by manual processes and legacy systems—and designing a future-state architecture centered on digital transformation, data-driven decision-making, and cultural equity.
+## Project Overview
+This project presents a **Strategic Information Systems (IS) Plan** designed for a tertiary education provider, focusing on **ethical data governance, operational efficiency, and culturally responsive digital transformation**.
 
-🛠️ Problem Space & Analysis
+The framework addresses gaps in Student Management Systems (SMS), Learning Management Systems (LMS), and data-driven decision-making, while aligning with **Te Tiriti o Waitangi**, **Māori Data Sovereignty**, and **NZQA compliance requirements**.
 
-+Current State Audit: Identified critical weaknesses in the existing legacy Student Management System (SMS) and Learning Management System (LMS), which lacked real-time integration and caused duplicate data entry.
+## Problem Statement
+- Fragmented systems and manual processes
+- Limited visibility into student engagement, retention, and performance
+- Inconsistent online delivery and academic risk monitoring
+- Lack of culturally responsive data governance
 
-+Risk Identification: Used the Iceberg Model and Risk Register to identify systemic issues, including inconsistent student achievement in online programs and a lack of formal academic risk tracking.
+## Objectives
+- Design a centralized, data-driven SMS & LMS ecosystem
+- Enable real-time analytics for operational and academic decision-making
+- Embed ethical AI, consent, and data equity principles
+- Support Māori and Pasifika learners through culturally respectful data practices
 
-+Strategic Alignment: Conducted a PESTEL analysis to align IS goals with NZ education regulations, Te Tiriti o Waitangi obligations, and emerging AI/Cloud trends.
+## Key Framework Areas
 
-🚀 Key Solutions & Strategic Proposal
+### 1. Governance & Principles
+- Te Tiriti o Waitangi alignment
+- Māori Data Sovereignty
+- GDPR & NZ Privacy Act 2020
+- NZQA & TEC compliance
 
-+Centralized Infrastructure: Proposed an integrated SMS-LMS ecosystem to automate enrollment, attendance, and reporting, creating a "single source of truth" for student data.
+### 2. Data Management
+- Ethical AI and transparent data use
+- Informed consent processes
+- Equity monitoring (Māori, Pasifika, disabilities)
+- Secure cloud infrastructure
 
-+Data Analytics & AI: Designed a framework for real-time performance dashboards and AI-driven analytics to track student retention and close achievement gaps for Māori and Pasifika learners.
+### 3. System Integration
+- SMS & LMS integration
+- Audit trails and compliance monitoring
+- Accurate handling of Māori names, values, and identity data
 
-+Cultural Data Sovereignty: Integrated Māori Data Sovereignty principles (Tino Rangatiratanga, Kaitiakitanga) into the system design to ensure ethical and culturally responsive data management.
+### 4. Engagement & Training
+- Staff training in ethical data use and cultural competency
+- Student awareness of data rights
+- Strengthening Māori partnership in digital systems
 
-+Compliance & Governance: Built-in mechanisms for NZQA compliance, NZ Privacy Act 2020, and GDPR standards to mitigate legal and reputational risks.
+## Data & Analytics Perspective
+From a **Data Analyst / Operations Analyst** lens, this project demonstrates:
+- Gap analysis (current vs future state)
+- Risk identification and mitigation planning
+- KPI-driven dashboards for engagement, retention, and outcomes
+- Governance-first analytics design
 
-📊 Frameworks Used
+## Tools & Concepts Demonstrated
+- Strategic IS planning
+- Data governance frameworks
+- Risk matrices
+- Compliance-driven analytics
+- Equity-focused data analysis
 
-+SWOT Analysis (Strengths, Weaknesses, Opportunities, Threats) 
+## Deliverables
+- Strategic IS Plan (PDF)
+- Ethical & culturally responsive framework
+- Gap analysis and future-state architecture
 
-+PESTEL Analysis (Macro-environmental factors)
+## About Me
+I am a **Data Analyst / Operations Analyst** with a strong interest in using data for **ethical decision-making, operational improvement, and social impact**. My work focuses on aligning analytics with governance, equity, and real-world constraints.
 
-+Iceberg Model (Identifying underlying patterns and mental models)
+📄 Full report available in this repository.
 
-+Gap Analysis (Current State vs. Future State)
 
-+Risk Matrix (Likelihood/impact assessment and control measures)
